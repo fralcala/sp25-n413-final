@@ -37,6 +37,7 @@ Describe style variant differences
 ## Members & Responsibilities
 
 Who did what?
+
 Francis Alcala:
 
 Denisse:
