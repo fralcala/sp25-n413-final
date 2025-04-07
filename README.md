@@ -38,8 +38,8 @@ Describe style variant differences
 
 Who did what?
 
-Francis Alcala:
+Francis Alcala: did the index page, about page, and a topic page
 
-Denisse:
+Denisse: did the 404 page, fun facts page, and faq page.
 
-Cj Eilenstine:
+Cj Eilenstine: did the front-page, blog page, and post page.
