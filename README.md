@@ -16,9 +16,9 @@ Describe tools and techniques learned through this course that aided in the comp
 
 ---
 
-- 404 page: Briefly tell what they're used for
-- Fun Facts: Briefly tell what they're used for
-- FAQ: Briefly tell what they're used for
+- 404 page: The 404 page is the error page and a button where it takes them to the home page.
+- Fun Facts: Is a page where there will be fun facts about Starkiller.
+- FAQ: This page will answer questions about Starkiller.
 
 ---
 
