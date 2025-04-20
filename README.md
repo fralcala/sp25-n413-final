@@ -38,8 +38,23 @@ Describe style variant differences
 
 Who did what?
 
-Francis Alcala: did the index page, about page, 1 blog post, and a topic page
+Francis Alcala (President):
 
-Denisse: did the 404 page, fun facts page, 1 blog post, and faq page.
+- Index Page
+- About Page
+- 1 Blog Post
+- Topic Page
 
-Cj Eilenstine: did the front-page, blog page with one blog post, and post page.
+Denisse (Srum Master):
+
+- 404 Page
+- Fun Facts Page
+- 1 Blog Post
+- FAQ Page
+
+Cj Eilenstine (Architect):
+
+- Front-page
+- Blog Page
+- 1 Blog Post
+- Post Page
