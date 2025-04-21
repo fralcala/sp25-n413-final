@@ -8,11 +8,13 @@ Our project topic is space & Star Wars since our category is space. We will have
 
 Throughout this course we have learned development of Wordpress themes through tools like Block themes, templates and working with the CMS editor.
 
+Throughout this course we have learned development of Wordpress themes through tools like Block themes, templates and working with the CMS editor.
+
 ## Core Templates
 
-- Index: Briefly tell what they're used for
-- About: Briefly tell what they're used for
-- Topic page: Briefly tell what they're used for
+- Index: Basic fallback page if front page or any other page doesn't load properly.
+- About: About Star Killer and includes contact information.
+- Topic page: Template for different topics, e.g. Stars, Sith, Planets, Jedi, Lightsabers.
 
 ---
 
@@ -22,17 +24,19 @@ Throughout this course we have learned development of Wordpress themes through t
 
 ---
 
-- Front page: Briefly tell what they're used for
-- Blog page: Briefly tell what they're used for
-- Post page: Briefly tell what they're used for
+- Front page: Intro to website with hero and leads into other pages.
+- Blog page: Template for blog posts about the different space topics.
+- Post page: Template for blog posts once you try and read more about each post.
 
 ## Design Choices
 
 Describe style variant differences
 
-| Variant | Element / Block | Change      | Rationale |
-| ------- | --------------- | ----------- | --------- |
-| Name    | Color           | Description | Why       |
+| Variant    | Element / Block                    | Change                                      | Rationale                                  |
+| ---------- | ---------------------------------- | ------------------------------------------- | ------------------------------------------ |
+| Main       | #2E236C, #433D8B, #C8ACD6, #17153B | Main Color Palette                          | Good basic palette for space theme         |
+| Aquatic    | #074799, #009990, #E1FFBB, #001A6E | Color Palette representing Aquatic scheme   | Good color palette for aquatic space theme |
+| Deep Space | #4C3BCF, #3DC2EC, #4B70F5, #402E7A | Color Palette representing Deep Space Theme | Good color palette for deep space theme    |
 
 ## Members & Responsibilities
 
