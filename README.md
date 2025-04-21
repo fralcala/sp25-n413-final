@@ -8,8 +8,6 @@ Our project topic is space & Star Wars since our category is space. We will have
 
 Throughout this course we have learned development of Wordpress themes through tools like Block themes, templates and working with the CMS editor.
 
-Throughout this course we have learned development of Wordpress themes through tools like Block themes, templates and working with the CMS editor.
-
 ## Core Templates
 
 - Index: Basic fallback page if front page or any other page doesn't load properly.
