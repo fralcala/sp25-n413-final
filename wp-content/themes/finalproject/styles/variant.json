@@ -1,7 +1,7 @@
 {
   "$schema": "https://schemas.wp.org/wp/6.7/theme.json",
   "version": 3,
-  "title": "Blue-green",
+  "title": "Aquatic",
   "settings": {
     "color": {
       "palette": [
@@ -12,7 +12,7 @@
           "name": "Background",
           "slug": "background"
         },
-        { "color": "#001a6E", "name": "Text", "slug": "text" }
+        { "color": "#001A6E", "name": "Text", "slug": "text" }
       ]
     }
   }

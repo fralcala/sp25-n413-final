@@ -2,11 +2,11 @@
 
 ## Project Summary
 
-This should describe our project topic and how it relates to our category.
+Our project topic is space & Star Wars since our category is space. We will have pages talking about Star Wars and others space related topics.
 
 ## Key Takeaways
 
-Describe tools and techniques learned through this course that aided in the completion of your project.
+Throughout this course we have learned development of Wordpress themes through tools like Block themes, templates and working with the CMS editor.
 
 ## Core Templates
 
