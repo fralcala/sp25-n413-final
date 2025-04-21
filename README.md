@@ -38,14 +38,12 @@ Describe style variant differences
 
 ## Members & Responsibilities
 
-Who did what?
-
 Francis Alcala (President):
 
 - Index Page
 - About Page
 - 1 Blog Post
-- Topic Page
+- Contact Page
 
 Denisse (Srum Master):
 
