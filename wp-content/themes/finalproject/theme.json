@@ -17,6 +17,9 @@
     }
   },
   "styles": {
+    "typography": {
+      "fontFamily": "sans-serif"
+    },
     "color": {
       "background": "var:preset|color|background"
     },
@@ -37,6 +40,9 @@
       "core/navigation-link": {
         "color": {
           "text": "var:preset|color|background"
+        },
+        "typography": {
+          "fontSize": "24px"
         }
       }
     }
