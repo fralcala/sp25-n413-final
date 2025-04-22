@@ -1,38 +1,35 @@
-<!-- wp:group {"style":{"spacing":{"padding":{"right":"var:preset|spacing|60","left":"var:preset|spacing|60"},"margin":{"top":"var:preset|spacing|60","bottom":"var:preset|spacing|60"},"blockGap":"var:preset|spacing|60"}}} -->
-<div
-  class="wp-block-group"
-  style="
-    margin-top: var(--wp--preset--spacing--60);
-    margin-bottom: var(--wp--preset--spacing--60);
-    padding-right: var(--wp--preset--spacing--60);
-    padding-left: var(--wp--preset--spacing--60);
-  "
->
-  <!-- wp:heading {"level":3} -->
-  <h3 class="wp-block-heading">Starkiller's Potential</h3>
-  <!-- /wp:heading -->
+<!-- wp:query {"queryId":0,"query":{"perPage":10,"pages":0,"offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":true}} -->
+<div class="wp-block-query">
+  <!-- wp:post-template {"layout":{"type":"default"}} -->
+  <!-- wp:group {"style":{"spacing":{"padding":{"right":"var:preset|spacing|60","left":"var:preset|spacing|60"},"margin":{"top":"var:preset|spacing|60","bottom":"var:preset|spacing|60"},"blockGap":"var:preset|spacing|30"},"elements":{"link":{"color":{"text":"var:preset|color|background"}}}},"textColor":"background"} -->
+  <div
+    class="wp-block-group has-background-color has-text-color has-link-color"
+    style="
+      margin-top: var(--wp--preset--spacing--60);
+      margin-bottom: var(--wp--preset--spacing--60);
+      padding-right: var(--wp--preset--spacing--60);
+      padding-left: var(--wp--preset--spacing--60);
+    "
+  >
+    <!-- wp:post-title /-->
 
-  <!-- wp:paragraph -->
-  <p>
-    Galen possessed an unusually strong connection to the Force. His raw power
-    as a toddler was such that Vader mistook his Force signature for that of a
-    Jedi Master who far exceeded his father, Kento Marek, in power, even
-    managing to telekinetically disarm the Dark Lord as they attempted to strike
-    his father down.
-  </p>
-  <!-- /wp:paragraph -->
+    <!-- wp:post-excerpt /-->
 
-  <!-- wp:paragraph -->
-  <p>
-    <span>George Lucas</span>
-    10/31/89
-  </p>
-  <!-- /wp:paragraph -->
+    <!-- wp:post-author /-->
 
-  <!-- wp:button -->
-  <div class="wp-block-button">
-    <a class="wp-block-button__link wp-element-button"> Read More! </a>
+    <!-- wp:post-date {"style":{"elements":{"link":{"color":{"text":"var:preset|color|background"}}}},"textColor":"background"} /-->
+
+    <!-- wp:button {"backgroundColor":"primary"} -->
+    <div class="wp-block-button">
+      <a
+        class="wp-block-button__link has-primary-background-color has-background wp-element-button"
+      >
+        Read More!
+      </a>
+    </div>
+    <!-- /wp:button -->
   </div>
-  <!-- /wp:button -->
+  <!-- /wp:group -->
+  <!-- /wp:post-template -->
 </div>
-<!-- /wp:group -->
+<!-- /wp:query -->
