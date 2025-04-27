@@ -1,11 +1,23 @@
 <!-- wp:template-part {"slug":"nav"} /-->
 
-<!-- wp:heading {"textAlign":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|text"}}}},"textColor":"text"} -->
-<h2
-  class="wp-block-heading has-text-align-center has-text-color has-link-color"
+<!-- wp:group {"style":{"spacing":{"padding":{"right":"var:preset|spacing|70","left":"var:preset|spacing|70"},"margin":{"top":"var:preset|spacing|60","bottom":"var:preset|spacing|60"}}}} -->
+<div
+  class="wp-block-group"
+  style="
+    margin-top: var(--wp--preset--spacing--60);
+    margin-bottom: var(--wp--preset--spacing--60);
+    padding-right: var(--wp--preset--spacing--70);
+    padding-left: var(--wp--preset--spacing--70);
+  "
 >
-  Welcome to our Blog page where you can post about different topics.
-</h2>
-<!-- /wp:heading -->
+  <!-- wp:heading {"textAlign":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|text"}}}},"textColor":"text"} -->
+  <h2
+    class="wp-block-heading has-text-align-center has-text-color has-link-color"
+  >
+    Welcome to our Blog page where you can post about different topics.
+  </h2>
+  <!-- /wp:heading -->
 
-<!-- wp:template-part {"slug":"post"} /-->
+  <!-- wp:template-part {"slug":"post"} /-->
+</div>
+<!-- /wp:group -->
