@@ -5,14 +5,14 @@
   "settings": {
     "color": {
       "palette": [
-        { "color": "#5A189A", "name": "Buttons", "slug": "buttons" },
-        { "color": "#7B2CBF", "name": "Accents", "slug": "accents" },
+        { "color": "#5A189A", "name": "Primary", "slug": "primary" },
+        { "color": "#7B2CBF", "name": "Accent", "slug": "accent" },
         {
           "color": "#9D4EDD",
-          "name": "Backgrounds",
-          "slug": "backgrounds"
+          "name": "Background",
+          "slug": "background"
         },
-        { "color": "#E0AAFF", "name": "Texts", "slug": "texts" }
+        { "color": "#E0AAFF", "name": "Text", "slug": "text" }
       ]
     }
   }
