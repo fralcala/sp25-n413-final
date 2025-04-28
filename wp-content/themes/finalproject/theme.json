@@ -24,6 +24,7 @@
       "background": "var:preset|color|background",
       "text": "var:preset|color|text"
     },
+
     "blocks": {
       "core/navigation": {
         "color": {
