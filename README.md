@@ -43,7 +43,7 @@ Francis Alcala (President):
 - Index Page
 - About Page
 - 1 Blog Post
-- Contact Page
+- Contact Page & Contact Form
 
 Denisse (Srum Master):
 
@@ -58,3 +58,4 @@ Cj Eilenstine (Architect):
 - Blog Page
 - 1 Blog Post
 - Post Page
+- Newsletter form
